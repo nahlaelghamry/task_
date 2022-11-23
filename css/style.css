@@ -1,0 +1,19 @@
+.navbar-brand:hover { transform: scale(1.1,1.1); transition: 1s;}
+.card-img-top { margin: auto;}
+.card-title { text-transform: capitalize; cursor: pointer; }
+.pp{ color: red; }
+#addToCart{
+    width: 150px;
+    padding: 15px  0px;
+    border-radius: 5px;
+    font-size: 22px;
+    border: none;
+    background-color: blue;
+    color: white;
+    text-transform: capitalize;
+    margin: auto;
+    margin-top: 10px;
+}
+#addToCart:hover{ opacity: 0.4;}
+#total{ font-weight: bold; text-transform: capitalize;}
+    
